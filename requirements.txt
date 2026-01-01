@@ -1,0 +1,2 @@
+alibabacloud_esa20240910==2.34.0
+requests
