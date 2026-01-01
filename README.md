@@ -3,6 +3,8 @@
 > 基于系统负载自动启用/禁用阿里云 ESA WAF 规则的智能脚本
 >
 > 超级详细的图文教程链接https://lyew.com/helpcontent/33.html
+>
+> CloudFlare自动开盾脚本https://github.com/LangfordKuo/AutoAntiCC
 
 ## 🚀 项目简介
 
